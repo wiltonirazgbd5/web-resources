@@ -1,0 +1,2 @@
+# web-resources
+SEO content
